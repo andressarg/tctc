@@ -1,0 +1,42 @@
+div.jumbotron-fluid {
+	background-image: url(../img/weaving2.jpg);
+	background-position: 0% 75%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+}
+
+#footform {
+	background-color: #f7f3ea;
+}
+
+h1.display-4, p.lead {
+	background-color: rgba(0,0,0,0.5);
+}
+
+.sponser, .card-text {
+	text-align: center;
+}
+
+ul.sponser {
+  padding: 10px;
+	background: rgb(222, 222, 220,0.5);
+}
+
+.sponser li {
+	display: inline;
+  padding: 0px 10px 0px 10px;
+}
+
+.sponser img {
+	opacity: 0.5;
+	filter: alpha(opacity=50); /* for <= IE 8 */
+
+}
+
+hr {
+    display: block;
+    margin-top: 3em;
+    margin-bottom: 0.5em;
+    border-width: 2px;
+}
